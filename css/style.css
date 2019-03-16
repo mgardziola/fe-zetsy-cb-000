@@ -37,6 +37,9 @@ h1 {
 
 /* Write all remaining styles here */
 
+img {
+  border: 5px #98ADA6 solid;
+}
 #press img {
   border: 5px #ccc solid;
   padding: 1px;
